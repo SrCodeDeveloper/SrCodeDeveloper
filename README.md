@@ -12,6 +12,7 @@
 📝 Roles: Developer... Leader... Entrepreneur... 
 
 📫 Email: **srcodedeveloper@gmail.com**
+
 👌 Discord: **srcode_developer**
 <!--Intro end-->
   </p>
