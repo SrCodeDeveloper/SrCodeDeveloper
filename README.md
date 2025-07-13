@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,ts,aws,bash,cloudflare,discord,django,docker,express,flask,nextjs,nodejs,pycharm,idea,tailwind,vercel,vscode,nginx,postgres,mysql,mongodb,redis,sqlite,git,github,kotlin,gradle,maven,jenkins,arduino,linux,windows&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,next,nodejs,nest,sqlite,postgres,aws,discord,bots,discordjs,docker,express,flutter,git,github,gradle,maven,java,idea,pycharm,vscode,webstorm,jquery,linux,windows,mongodb,mysql,nginx,notion,sass,python,vite,tensorflow,bootstrap&perline=10" />
   </a>
 </p>
 <br>
